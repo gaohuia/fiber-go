@@ -1,0 +1,15 @@
+{
+    "name": "gaohuia/fiber-go",
+    "autoload": {
+        "psr-4": {
+            "Gaohuia\\FiberGo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tom",
+            "email": "www@zeroplace.cn"
+        }
+    ],
+    "require": {}
+}
